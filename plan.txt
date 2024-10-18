@@ -1,0 +1,14 @@
+Navne- og epostregister
+
+1: Se på funksjonaliteten i brukergrensesnittet
+
+Hva er en Single Page Application?
+
+Gå gjennom og forklare hele applikasjonen
+2: Model inkl. tredeling
+3: View
+4: Controller 
+
+5: Endre på applikasjonen - kom med innspill!
+ - "dummy login"
+ - funksjon for å bytte side
