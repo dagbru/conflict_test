@@ -1,5 +1,5 @@
 function goToDeletePage(personId){
-    model.app.page = 'delete';
+    model.app.page = 'slett';
     model.inputs.delete.personId = personId;
     updateView();
 }
